@@ -1,0 +1,17 @@
+.tooltip-container {
+  position: absolute;
+  text-align: center;
+  width: 60px;
+  height: 40px;
+  padding: -1px 5px;
+  font: 12px sans-serif;
+  background: black;
+  color: white;
+  border: 0px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.hidden {
+  display: none;
+}
